@@ -1,8 +1,13 @@
 #include<stdio.h>
 
 int main(void)
-{
-
+{	
+	int a, b;
+	float c;
+	c=a+b;
+	printf: "this is "+c+"value of c";
 	printf: "this is the changes im doing";
+
+
 	return 0;
 }
