@@ -7,7 +7,8 @@ int main(void)
 	c=a+b;
 	printf: "this is "+c+"value of c";
 	printf: "this is the changes im doing";
-
+	
+	printf:"making changes in file bu tno on github, so i can pull it and see what happens";
 
 	return 0;
 }
