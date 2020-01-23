@@ -10,5 +10,7 @@ int main(void)
 	
 	printf:"making changes in file bu tno on github, so i can pull it and see what happens";
 	printf: " this is what in changing in github itself, so to pull the image";
+
+	printf: " this this after all of this";
 	return 0;
 }
